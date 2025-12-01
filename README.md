@@ -34,7 +34,7 @@ This project focuses on advanced data mining techniques, specifically the integr
 ### 3. Video Presentation
 **Duration:** 10-15 minutes
 
-**Location:** [Video Placeholder]
+**Location:** [Youtube](https://youtu.be/wQwLc4rRbQA)
 
 **Content:** Detailed walkthrough of the research paper "Refining Time Series Anomaly Detectors using Large Language Models" (2025), explaining the methodology, visual prompt strategies, and implications for automated data mining systems.
 
@@ -65,6 +65,7 @@ This project synthesizes recent advances in multimodal data mining, with emphasi
 ## 🔗 Important Links
 
 - **Medium Article:** [Eyes on the Chart](https://medium.com/@darshlukkad/eyes-on-the-chart-how-multimodal-llms-are-refining-anomaly-detection-2cf928f9f195)
-- **Presentation Slides:** [Placeholder]
+- **Presentation Slides:** [Slides](https://github.com/darshlukkad/TimeSeriesRefining/blob/main/Refining%20Time%20Series%20Anomaly%20Detectors.pdf)
 - **GitHub Repository:** [darshlukkad/TimeSeriesRefining](https://github.com/darshlukkad/TimeSeriesRefining)
 - **Original Paper:** [Time Series Anomaly Detectors using LLM.pdf](https://github.com/darshlukkad/TimeSeriesRefining/blob/main/Time%20Series%20Anomaly%20Detectors%20using%20LLM.pdf)
+- ** Youtube Video:** [Youtube](https://youtu.be/wQwLc4rRbQA)
