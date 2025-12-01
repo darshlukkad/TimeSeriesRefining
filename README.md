@@ -22,7 +22,7 @@ This project focuses on advanced data mining techniques, specifically the integr
 **Description:** An in-depth article exploring how Multimodal LLMs (like Llama 3.2 Vision) serve as a "second opinion" for anomaly detectors. It details the architecture of combining a computationally cheap detector with a smart LLM refiner to mimic human visual inspection and drastically reduce false alarms.
 
 ### 2.  Presentation Slides
-**Link:** [Presentation Slides Placeholder]
+**Link:** [Slides](https://github.com/darshlukkad/TimeSeriesRefining/blob/main/Refining%20Time%20Series%20Anomaly%20Detectors.pdf)
 
 **Description:** Comprehensive slide deck covering:
 - The "False Positive Fatigue" problem in time series monitoring
